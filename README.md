@@ -36,7 +36,7 @@ Docker.
 
 Instancias AWS.
 
-![img](https://github.com/DavidRiveraRvD/AREP-PARCIAL-II/bloc/master/resources/ins.PNG)  
+![img](https://github.com/DavidRiveraRvD/AREP-PARCIAL-II/blob/master/resources/ins.PNG)  
 
 
 
