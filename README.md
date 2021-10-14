@@ -28,6 +28,9 @@ Pruebas compiladas correctamente para el codigo.
 
 ![img](https://github.com/DavidRiveraRvD/AREP-PARCIAL-II/blob/master/resources/compilacion.PNG)  
 
+Pruebas locales del codigo.
+
+![img](https://github.com/DavidRiveraRvD/AREP-PARCIAL-II/blob/master/resources/pruebaslocales.PNG)  
 
 Docker.
 
