@@ -26,17 +26,17 @@ mvn package
 
 Pruebas compiladas correctamente para el codigo.
 
-![img](https://github.com/DavidRiveraRvD/AREP-PARCIAL-II/blob/main/resources/compilacion.PNG)  
+![img](https://github.com/DavidRiveraRvD/AREP-PARCIAL-II/blob/master/resources/compilacion.PNG)  
 
 
 Docker.
 
-![img](https://github.com/DavidRiveraRvD/AREP-PARCIAL-II/blob/main/resources/docker.PNG)  
+![img](https://github.com/DavidRiveraRvD/AREP-PARCIAL-II/blob/master/resources/docker.PNG)  
 
 
 Instancias AWS.
 
-![img](https://github.com/DavidRiveraRvD/AREP-PARCIAL-II/bloc/main/resources/instancia.PNG)  
+![img](https://github.com/DavidRiveraRvD/AREP-PARCIAL-II/bloc/master/resources/instancia.PNG)  
 
 
 
